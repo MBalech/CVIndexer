@@ -1,7 +1,7 @@
-# CVIndexer
-Projet 3: Indexation des CVs dans Elasticsearch par Mylène Balech et Ndiasse Mbengue
+# CVIndexer par Mylène Balech et Ndiasse Mbengue
+Projet 3: Indexation des CVs dans Elasticsearch 
 
-(lancer elasticsearch, si le port n'estpas 9200, il faut le changer dans CvService/src/main/java/com/cvindexer/cvindexer/config/RestClientConfig.java 
+(lancer elasticsearch, si le port n'est pas 9200, il faut le changer dans CvService/src/main/java/com/cvindexer/cvindexer/config/RestClientConfig.java 
 ## CvService 
 ```sh
 ajouter maven au projet
