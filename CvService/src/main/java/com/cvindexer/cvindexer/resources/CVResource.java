@@ -20,7 +20,7 @@ import java.util.List;
 @RequestMapping("/v1/api/cvindexer")
 public class CVResource {
 
-    private String fileBasePath = "cvs/";
+    private String fileBasePath = "/Users/mylenebalech/Documents/CVIndexer/CvService/cvs/";
     private String contenu = "";
 
     @Autowired
